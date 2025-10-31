@@ -1,0 +1,21 @@
+course_name,task_name,due_date,week,weight,est_hours,status,type
+QBUS5010,Individual Proposal,2025-03-10,3,0.1,5,Completed,Report
+QBUS5010,Peer Feedback,2025-03-20,4,0.05,3,Completed,Reflection
+QBUS5010,Group Evaluation Plan,2025-04-08,6,0.15,8,Pending,Report
+QBUS5010,Dashboard Submission,2025-05-06,9,0.3,12,Not Started,Presentation
+QBUS5010,Final Reflection,2025-05-20,11,0.1,4,Not Started,Reflection
+MKTG6013,Case Study 1,2025-03-12,3,0.1,6,Completed,Report
+MKTG6013,Mid-term Exam,2025-04-17,7,0.25,10,Pending,Quiz
+MKTG6013,Campaign Plan,2025-05-15,10,0.35,15,Not Started,Report
+MKTG6013,Reflection,2025-05-26,12,0.05,2,Not Started,Reflection
+INFS6071,Tutorial Quiz 1,2025-03-05,2,0.05,2,Completed,Quiz
+INFS6071,Digital Strategy Report,2025-04-22,8,0.3,12,Pending,Report
+INFS6071,Final Presentation,2025-05-27,12,0.3,10,Not Started,Presentation
+INFS6071,Learning Journal,2025-05-16,10,0.05,3,Not Started,Reflection
+INFS6071,Case Discussion,2025-03-26,5,0.1,4,Completed,Report
+MKTG6600,Survey Design,2025-03-18,4,0.1,4,Completed,Report
+MKTG6600,Focus Group Analysis,2025-04-15,7,0.2,6,Pending,Report
+MKTG6600,Research Proposal,2025-04-29,9,0.25,8,Pending,Report
+MKTG6600,Final Report,2025-05-24,11,0.3,15,Not Started,Report
+MKTG6600,Data Cleaning Task,2025-03-27,5,0.05,3,Completed,Quiz
+QBUS5010,Peer Review,2025-05-28,13,0.05,2,Not Started,Reflection
